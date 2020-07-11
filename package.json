@@ -1,11 +1,11 @@
 {
-    "title": "Clean Blog",
-    "name": "startbootstrap-clean-blog",
+    "title": "Akifah Jamsheer",
+    "name": "akifah-jamsheer-blog",
     "version": "5.0.9",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+    "description": "This is a Medium inspired blog theme for Bootstrap.",
     "keywords": [
         "css",
         "sass",
